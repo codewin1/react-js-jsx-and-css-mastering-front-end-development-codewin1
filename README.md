@@ -35,7 +35,7 @@ A beautiful, minimalist productivity application designed to help you stay focus
 1. Clone the repository:
 ```bash
 git clone https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-codewin1.git
-cd SMOOTH-REACT-BLOOM-MAIN
+cd react-js-jsx-and-css-mastering-front-end-development-codewin1
 ```
 
 2. Install dependencies:
