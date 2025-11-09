@@ -34,7 +34,7 @@ A beautiful, minimalist productivity application designed to help you stay focus
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-codewin1.git
 cd SMOOTH-REACT-BLOOM-MAIN
 ```
 
@@ -48,7 +48,7 @@ npm install
 npm run dev
 ```
 
-4. Open your browser and navigate to `http://localhost:5173`
+4. Open your browser and navigate to `http://localhost:8080`
 
 ### Building for Production
 
@@ -58,7 +58,7 @@ npm run build
 
 The production-ready files will be in the `dist` directory.
 
-## 🎮 How to Use
+## How to Use
 
 1. **Start a Focus Session**: Click the "Start" button on the timer to begin your 25-minute focus session
 2. **Track Progress**: Watch the visual progress indicator fill up as you work
@@ -67,7 +67,7 @@ The production-ready files will be in the `dist` directory.
 5. **Toggle Theme**: Switch between light and dark modes with the theme toggle in the header
 6. **View Stats**: Monitor your productivity with the stats cards showing daily focus time, streaks, and weekly totals
 
-## 🎨 Design System
+## Design System
 
 The app uses a comprehensive design system with:
 - **Semantic color tokens**: Primary, secondary, accent, muted variants
